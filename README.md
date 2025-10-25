@@ -8,7 +8,7 @@ I’m passionate about turning data into strategy and ideas into digital impact 
 
 🔍 Data Science & Analytics — discovering insights and trends for smarter decisions
 
-🚀 Digital Marketing & SEO — building visibility and engagement through analytics-driven strategy
+🚀 Digital Marketing & E-commerce — building visibility and engagement through analytics-driven strategy
 
 💎 Domain Expertise — 15 years of hands-on experience in Export–Import, Auctions, and Diamonds
 
