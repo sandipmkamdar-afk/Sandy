@@ -67,3 +67,9 @@ https://drive.google.com/drive/folders/1Ir5vCvctJbRf5RfUUk-scX-3rUM45y8i?usp=dri
 🎓 Certifications & Courses
 https://drive.google.com/drive/folders/1DSMYsS30_dyi1gF2KGnT8jbKvhVup_57?usp=drive_link
 
+📫 Let’s Connect
+Feel free to reach out for collaborations or opportunities!
+📧 Email: sandipmkamdar@gmail.com
+   kamdar.sandip@yahoo.com
+
+💼 LinkedIn: www.linkedin.com/in/sandip-kamdar-77479965
