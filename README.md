@@ -73,3 +73,7 @@ Feel free to reach out for collaborations or opportunities!
    kamdar.sandip@yahoo.com
 
 💼 LinkedIn: www.linkedin.com/in/sandip-kamdar-77479965
+
+## 📄 Resume
+[View My Resume]
+https://drive.google.com/file/d/10Q3pXb2cxslMW3YBsvNUebhLetSRVrsp/view?usp=drive_link
