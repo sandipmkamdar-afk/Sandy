@@ -3,7 +3,7 @@ A collection of my certified projects in Data Science, Data Analytics, Digital M
 ## My Portfolio (Projects & Certifications)
 
 You can download all my projects and certifications here:  
-https://drive.google.com/file/d/1ZO2PXnjCMXaOYXGu-dergXue6va5HKsM/view?usp=drive_link
+https://drive.google.com/file/d/1cNJUZU2mzdeC8YrxnvVKpRRY_XA38XXa/view?usp=drive_link
 
 # 👋 Hi, I'm Sandy!
 
@@ -13,7 +13,7 @@ A passionate **Data Scientist, Digital Marketer, and Software Engineer** with ex
 
 ## 💼 My Portfolio (Projects & Certifications)
 
-### 📥 **[Download Complete Portfolio](https://drive.google.com/file/d/1ZO2PXnjCMXaOYXGu-dergXue6va5HKsM/view?usp=drive_link)**
+### 📥 **[Download Complete Portfolio]https://drive.google.com/file/d/1cNJUZU2mzdeC8YrxnvVKpRRY_XA38XXa/view?usp=drive_link
 
 ---
 
@@ -107,7 +107,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - 📧 Email: sandipmkamdar@gmail.com, kamdar.sandip@yahoo.com
 - 💼 LinkedIn: www.linkedin.com/in/sandip-kamdar-77479965
-- 🌐 Portfolio: [Download Here](https://drive.google.com/file/d/1ZO2PXnjCMXaOYXGu-dergXue6va5HKsM/view?usp=drive_link)
+- 🌐 Portfolio: https://drive.google.com/file/d/1cNJUZU2mzdeC8YrxnvVKpRRY_XA38XXa/view?usp=drive_link
 
 ---
 
