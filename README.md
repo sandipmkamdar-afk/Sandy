@@ -50,7 +50,10 @@ https://drive.google.com/drive/folders/1LYZRDFNkXMk6pWbajO0g23qdKLIPtyzT?usp=dri
 🌐 Translation & Marketing NGO Projects
 Catchafire NGO Projects
 Professional English translations for non-profit initiatives
-https://drive.google.com/drive/folders/1tsyxPPI3Z9uhJg0Ju_U1dEWtIpQwqenP?usp=drive_link
+https://catchafire.org/impact/match/3984100/grow-nashua--marketing-materials/
+https://catchafire.org/impact/match/3983942/mass-audubon--translation/
+https://catchafire.org/impact/match/3988303/tacid-tacoma-area-coalition-of-individua--translation/
+https://catchafire.org/impact/match/3987772/black-boarders-ct--thank-you-letter/
 
 💻 Software Engineering
 Interactive Quiz App
